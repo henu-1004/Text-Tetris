@@ -22,7 +22,7 @@
 ### Menu Screen
 
 <p align="center">
-  <img src="./images/start.png" width="350">
+  <img src="./images/start.png" width="250">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 ### Game Screen
 
 <p align="center">
-  <img src="./images/ex.png" width="350">
+  <img src="./images/ex.png" width="150">
 </p>
 
 <p align="center">
