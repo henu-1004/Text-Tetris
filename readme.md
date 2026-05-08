@@ -32,7 +32,7 @@
 ### Game Screen
 
 <p align="center">
-  <img src="./images/ex.png" height="200" width="150">
+  <img src="./images/ex.png" height="400" width="250">
 </p>
 
 <p align="center">
